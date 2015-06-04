@@ -1,0 +1,26 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Base application theme. -->
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MagicSquare" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+    <style name="TileView">
+        <item name="android:textColor">@drawable/game_color_selector</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:background">@drawable/game_selector</item>
+    </style>
+
+    <style name="GameGridView">
+        <item name="android:background">@color/black</item>
+        <item name="android:stretchMode">columnWidth</item>
+    </style>
+
+</resources>

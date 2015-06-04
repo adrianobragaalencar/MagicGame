@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.yattatech.magicsquare">
+    <item app:state_cell_selected="true" android:drawable="@drawable/selected_tile_view" />
+    <item app:state_cell_adjacent="true" android:drawable="@drawable/adjacent_tile_view" />
+    <item app:state_cell_win="true" android:drawable="@drawable/tile_view_win" />
+    <item app:state_cell_selected="false" android:drawable="@drawable/tile_view"/>
+    <item app:state_cell_adjacent="false" android:drawable="@drawable/tile_view" />
+    <item app:state_cell_win="false" android:drawable="@drawable/tile_view" />
+</selector>

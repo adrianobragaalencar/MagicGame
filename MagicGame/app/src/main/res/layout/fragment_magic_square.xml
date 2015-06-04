@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gameGridView"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnWidth="@dimen/game_column_width"
+    android:verticalSpacing="@dimen/game_container_cell_gap"
+    android:horizontalSpacing="@dimen/game_container_cell_gap"
+    android:numColumns="@integer/game_container_num_columns"
+    android:gravity="center"
+    style="@style/GameGridView">
+</GridView>

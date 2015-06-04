@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="game_container_cell_gap">4dp</dimen>
+    <dimen name="label_game_size">32dp</dimen>
+    <dimen name="game_padding">20dp</dimen>
+    <dimen name="game_column_width">192dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.yattatech.magicsquare">
+    <item app:state_cell_win="true" android:color="@color/white" />
+    <item app:state_cell_win="false" android:color="@color/blue" />
+</selector>

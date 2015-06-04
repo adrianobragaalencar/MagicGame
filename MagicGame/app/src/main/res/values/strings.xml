@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic Square</string>
+    <string name="new_game">Rules</string>
+    <string name="game_over">Game Over</string>
+    <string name="new_game_message">Select a cell and replace it by its adjacent cells.\n until reorder the whole magic square</string>
+    <string name="game_over_message">Congratulations, you have finished the game.\n To start a new one, please click on menu.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="score_text">000000</string>
+    <!-- Menu -->
+    <string name="new_game_item">New Game</string>
+    <string name="exit_game_item">Exit</string>
+
+</resources>

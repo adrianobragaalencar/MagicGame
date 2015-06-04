@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SquareTextView">
+        <attr name="state_cell_selected" format="boolean"/>
+        <attr name="state_cell_adjacent" format="boolean"/>
+        <attr name="state_cell_win" format="boolean"/>
+    </declare-styleable>
+</resources>
